@@ -57,3 +57,5 @@ class SudokuSquare {
 
   }
 }
+
+module.exports = {SudokuSolver};
